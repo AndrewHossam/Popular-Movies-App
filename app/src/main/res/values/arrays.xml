@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_sort_options">
+        <item>@string/pref_sort_label_popularity</item>
+        <item>@string/pref_sort_label_rating</item>
+        <item>@string/pref_sort_label_favorite</item>
+    </string-array>
+    <string-array name="pref_sort_values">
+        <item>@string/pref_sort_popularity</item>
+        <item>@string/pref_sort_rating</item>
+        <item>@string/pref_sort_favorite</item>
+    </string-array>
+
+    <string-array name="pref__image_quality_option">
+        <item>Very Low</item>
+        <item>Low</item>
+        <item>Fair</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Very High</item>
+        <item>Original</item>
+    </string-array>
+    <string-array name="pref__image_quality_values">
+        <item>@string/very_low</item>
+        <item>@string/low</item>
+        <item>@string/fair</item>
+        <item>@string/medium</item>
+        <item>@string/high</item>
+        <item>@string/very_high</item>
+        <item>@string/original</item>
+    </string-array>
+
+
+</resources>
