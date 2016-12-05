@@ -1,5 +1,4 @@
 package com.example.andrew.popular_movies_app;
-//f1765a23972129bb19c1bdd7cc50355f
 
 import android.content.Intent;
 import android.os.Bundle;

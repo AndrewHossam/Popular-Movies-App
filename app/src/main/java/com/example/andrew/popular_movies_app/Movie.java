@@ -16,7 +16,7 @@ public class Movie implements Parcelable {
     public static final String BASE_IMAGE_URL = "http://image.tmdb.org/t/p/";
     public static final String DISCOVER_BASE_URL =
             "http://api.themoviedb.org/3/discover/movie";
-    public static final String MOVIE_BASE_URL =
+    public static final String MOVIE_BASE_URL = 
             "http://api.themoviedb.org/3/movie/";
     public static final String REVIEWS = "reviews";
     public static final String VIDEOS = "videos";
